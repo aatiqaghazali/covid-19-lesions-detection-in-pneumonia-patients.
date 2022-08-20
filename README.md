@@ -11,6 +11,6 @@ This repository contains all the code files of project "covid-19-lesions-detecti
 2. Keras_Tensorflow
 3. nibabel
 4. numpy
-5.matplotlib
-6.cv2
+5. matplotlib
+6. cv2
 
